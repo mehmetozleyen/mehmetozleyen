@@ -1,4 +1,5 @@
 <img src="https://www.rp.edu.sg/images/default-source/soi-images/lifelong-learning/devops-banner.png?sfvrsn=65108021_2" width="1300" height="500">
+<img src="https://cdn.hostadvice.com/2021/10/10-16-2021---nxp-semiconductors-migrates-to-amazon-web-services-aws--1.png">
 <h1><strong>Mehmet Ozleyen</strong></h1>
 <p>AWS | Terraform | </p>
 <ul>
