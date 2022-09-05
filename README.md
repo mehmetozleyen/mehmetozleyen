@@ -1,4 +1,4 @@
-<img src="https://www.rp.edu.sg/images/default-source/soi-images/lifelong-learning/devops-banner.png?sfvrsn=65108021_2">
+<img src="https://www.rp.edu.sg/images/default-source/soi-images/lifelong-learning/devops-banner.png?sfvrsn=65108021_2" width="1000" height="200">
 
 ### Hi there 👋
 
