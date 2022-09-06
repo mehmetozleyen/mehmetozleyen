@@ -3,10 +3,12 @@
 <h1><strong>Mehmet Ozleyen</strong></h1>
 <li>AWS & DevOps Engineer</li>
 
+ <ul>  
+
 <img src="https://www.rp.edu.sg/images/default-source/soi-images/lifelong-learning/devops-banner.png?sfvrsn=65108021_2" width="130" height="50"> |
 <img src="https://www.turbogeek.co.uk/wp-content/uploads/2018/11/hashicorp-terraform-banner.png" width="130 height="50">
 
-                                                                                                                       <ul>  
+                                                                                                                      
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Tnjdmvd3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/iut5bis60lukw02yoe3j.jpg" width="130" height="50"> 
 <img src="https://cms-assets.tutsplus.com/uploads/users/1199/posts/25940/preview_image/ansible.png" width=130" height="50"> | <img src="https://www.kindpng.com/picc/m/745-7454540_apache-maven-hd-png-download.png" width="130" height="50">
 <img src="https://cms-assets.tutsplus.com/uploads/users/1199/posts/25940/preview_image/ansible.png" width=130" height="50"> | <img src="https://www.devopstechlab.com/wp-content/uploads/2018/01/jenkins-banner-1500x430.jpg" width=130" height="50"> 
