@@ -2,6 +2,7 @@
 
 <h1><strong>Mehmet Ozleyen</strong></h1>
 <li>AWS & DevOps Engineer</li>
+[your link] {https://www.linkedin.com/in/mehmet-ozleyen/}
 
  <ul>  
 
