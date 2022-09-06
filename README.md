@@ -1,4 +1,4 @@
-<img src="https://cdn.hostadvice.com/2021/10/10-16-2021---nxp-semiconductors-migrates-to-amazon-web-services-aws--1.png" width="1500" height="250">
+<img src="https://www.prepaway.com/design/img/courses/9475.jpg" width="1500" height="250">
 <h1><strong>Mehmet Ozleyen</strong></h1>
 👋 Hi there!  I`m Mehmet
 <li>- 🔭 I’m currently working as an Internship Cloud & DevOps Engineer</li>
