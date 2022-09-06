@@ -1,7 +1,7 @@
 <img src="https://cdn.hostadvice.com/2021/10/10-16-2021---nxp-semiconductors-migrates-to-amazon-web-services-aws--1.png" width="1500" height="250">
 <h1><strong>Mehmet Ozleyen</strong></h1>
 👋 Hi there!  I`m Mehmet
-<li>- 🔭 I’m currently working as an Internship Cloud DevOps Engineer</li>
+<li>- 🔭 I’m currently working as an Internship Cloud & DevOps Engineer</li>
 <li>- 🌱 I’m interested in improving myself at Amazon Web Services</li>
 <li>- 👯 I’m looking to collaborate on anything that can help you</li>
 <li>- 🤔 I really like to help people. Besides this, I love exploring that something new and travelling</li>
