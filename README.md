@@ -3,13 +3,11 @@
 <h1><strong>Mehmet Ozleyen</strong></h1>
 <li>AWS & DevOps Engineer</li>
 ### Hi there 👋 I`m Mehmet
-<li>
-- 🔭 I’m currently working as a Cloud DevOps Engineer
-- 🌱 I’m interested in improving myself at Amazon Web Services
-- 👯 I’m looking to collaborate on anything that can help you
-- 🤔 I really like to help people. Besides this, I love exploring that something new and travelling
-- 📫 How to reach me: 
-- </li>
+<li>- 🔭 I’m currently working as a Cloud DevOps Engineer</li>
+<li>- 🌱 I’m interested in improving myself at Amazon Web Services</li>
+<li>- 👯 I’m looking to collaborate on anything that can help you</li>
+<li>- 🤔 I really like to help people. Besides this, I love exploring that something new and travelling</li>
+<li>- 📫 How to reach me: </li>
 
 [your link] {https://www.linkedin.com/in/mehmet-ozleyen/}
 
