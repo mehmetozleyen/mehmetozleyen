@@ -9,7 +9,7 @@
 - 🤔 I really like to help people. Besides this, I love exploring that something new and travelling.
 - 📫 How to reach me: ...
 - -->
-- <!--
+- 
 [your link] {https://www.linkedin.com/in/mehmet-ozleyen/}
 
  <ul>  
