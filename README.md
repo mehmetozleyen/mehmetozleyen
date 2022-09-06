@@ -6,8 +6,10 @@
 <li>- 👯 I’m looking to collaborate on anything that can help you</li>
 <li>- 🤔 I really like to help people. Besides this, I love exploring that something new and travelling</li>
 <li>- 📫 How to reach me: </li>
-<img src="https://user-images.githubusercontent.com/94003285/160731003-4e6ab064-1fa0-4e04-beb8-f207e2312932.png" width="110" height="50">
-[my link] {https://www.linkedin.com/in/mehmet-ozleyen/}
+<a href="https://www.linkedin.com/in/mehmet-ozleyen/">
+<img src="https://user-images.githubusercontent.com/94003285/160731003-4e6ab064-1fa0-4e04-beb8-f207e2312932.png" alt="LinkedIn" width="110" height="50">
+</a>
+[my link] {[https://www.linkedin.com/in/mehmet-ozleyen/](https://www.linkedin.com/in/mehmet-ozleyen/)}
 
 <h3>Tools & Technologies</h3>
  <ul>  
