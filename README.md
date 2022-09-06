@@ -1,4 +1,4 @@
-<img src="https://cdn.hostadvice.com/2021/10/10-16-2021---nxp-semiconductors-migrates-to-amazon-web-services-aws--1.png" width="1500" height=250">
+<img src="https://cdn.hostadvice.com/2021/10/10-16-2021---nxp-semiconductors-migrates-to-amazon-web-services-aws--1.png" width="1500" height="250">
 
 <h1><strong>Mehmet Ozleyen</strong></h1>
 <p>AWS | Terraform | Kubernetes | Ansible | Docker | Maven | Jenkins | Promethous | Nexus | Swarm </p>
