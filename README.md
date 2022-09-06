@@ -1,4 +1,4 @@
-<img src="https://www.prepaway.com/design/img/courses/9475.jpg" width="1800px" height="300px">
+<img src="https://www.prepaway.com/design/img/courses/9475.jpg" width="1800px" height="275px">
 <h1><strong>Mehmet Ozleyen</strong></h1>
 👋 Hi there!  I`m Mehmet
 <li>- 🔭 I’m currently working as an Internship Cloud & DevOps Engineer</li>
