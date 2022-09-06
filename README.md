@@ -1,6 +1,6 @@
 <img src="https://www.prepaway.com/design/img/courses/9475.jpg" width="1800px" height="260px">
 <h1><strong>Mehmet Ozleyen</strong></h1>
-👋 Hi there!  I`m Mehmet
+👋 Hi there!  I`m Mehmet Ozleyen
 <li>- 🔭 I’m currently working as an Internship Cloud & DevOps Engineer</li>
 <li>- 🌱 I’m interested in improving myself at Amazon Web Services</li>
 <li>- 👯 I’m looking to collaborate on anything that can help you</li>
