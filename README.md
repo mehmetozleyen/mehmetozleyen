@@ -9,7 +9,7 @@
 
 [your link] {https://www.linkedin.com/in/mehmet-ozleyen/}
 
-<h4><img srd="https://as2.ftcdn.net/v2/jpg/02/23/32/47/1000_F_223324717_Qv8twva1rN91065WnsvfTso4PtCjxjpD.jpg" width="40" height="40">Tools & Technologies</h4>
+<img srd="https://as2.ftcdn.net/v2/jpg/02/23/32/47/1000_F_223324717_Qv8twva1rN91065WnsvfTso4PtCjxjpD.jpg" width="20" height="20"><h3>Tools & Technologies</h3>
 
  <ul>  
 
