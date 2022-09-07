@@ -6,7 +6,7 @@
 <li>- 👯 I'm looking to collaborate on anything that can help you</li>
 <li>- 🤔 I really like to help people. Besides this, I love exploring that something new and travelling</li>
 <li>- 📫 How to reach me: </li>
-
+<p>Check out <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</p>
 <body>
 <p> <a href="https://www.linkedin.com/in/mehmet-ozleyen/" target="_blank" rel="noopener noreferrer"></p>
 <img src="https://user-images.githubusercontent.com/94003285/160731003-4e6ab064-1fa0-4e04-beb8-f207e2312932.png" alt="LinkedIn" width="110px" height="50px">
