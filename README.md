@@ -7,7 +7,9 @@
 <li>- 🤔 I really like to help people. Besides this, I love exploring that something new and travelling</li>
 <li>- 📫 How to reach me: </li>
 <body>
-<p>Check out <a href="https://www.linkedin.com/in/mehmet-ozleyen/" target="_blank"></a>.</p>
+<p>
+<a href="https://www.linkedin.com/in/mehmet-ozleyen/" target="_blank"></a>.
+</p>
 <img src="https://user-images.githubusercontent.com/94003285/160731003-4e6ab064-1fa0-4e04-beb8-f207e2312932.png" alt="LinkedIn" width="110px" height="50px">
 </body>
 <h3>Tools & Technologies</h3>
