@@ -1,16 +1,16 @@
 <img src="https://www.prepaway.com/design/img/courses/9475.jpg" width="1800px" height="260px">
 <h1><strong>Mehmet Ozleyen</strong></h1>
 👋 Hi there!  I`m Mehmet Ozleyen
-<li>- 🔭 I’m currently working as an Internship Cloud & DevOps Engineer</li>
-<li>- 🌱 I’m interested in improving myself at Amazon Web Services</li>
-<li>- 👯 I’m looking to collaborate on anything that can help you</li>
+<li>- 🔭 I'm currently working as an Internship Cloud & DevOps Engineer</li>
+<li>- 🌱 I'm interested in improving myself at Amazon Web Services</li>
+<li>- 👯 I'm looking to collaborate on anything that can help you</li>
 <li>- 🤔 I really like to help people. Besides this, I love exploring that something new and travelling</li>
 <li>- 📫 How to reach me: </li>
+
 <body>
-<p>
-<a href="https://www.linkedin.com/in/mehmet-ozleyen/" target="_blank"></a>.
-</p>
+<p> <a href="https://www.linkedin.com/in/mehmet-ozleyen/" target="_blank"></a>.</p>
 <img src="https://user-images.githubusercontent.com/94003285/160731003-4e6ab064-1fa0-4e04-beb8-f207e2312932.png" alt="LinkedIn" width="110px" height="50px">
+</a>
 </body>
 <h3>Tools & Technologies</h3>
  <ul>  
@@ -24,8 +24,6 @@
 <img src="https://flyclipart.com/thumbs/set-up-docker-swarm-cluster-using-consul-dzone-cloud-docker-swarm-logo-1074961.png" width="110" height="50">  <img src="https://www.devopstechlab.com/wp-content/uploads/2018/01/jenkins-banner-1500x430.jpg" width="110" height="50"> 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648922226106/ReijKvWX1.png" width="110" height="50">  <img src="https://www.cncf.io/wp-content/uploads/2020/08/prometheusBanner-1.png" width="110" height="50"> 
  </ul>
-
-
 
 
 
