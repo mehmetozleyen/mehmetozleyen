@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/94003285/160731003-4e6ab064-1fa0-4e04-beb8-f207e2312932.png" alt="LinkedIn" width="110px" height="50px">
 </a></p>
 </body>
-<p><a[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/mehmetozleyen20/)]>(https://www.instagram.com/mehmetozleyen20/)
+<p><a href="https://www.instagram.com/mehmetozleyen20/" [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/mehmetozleyen20/)]>
 </a></p>
 <h3>Tools & Technologies</h3>
  <ul>  
