@@ -7,11 +7,13 @@
 <li>- 🤔 I really like to help people. Besides this, I love exploring that something new and travelling</li>
 <li>- 📫 How to reach me: </li>
 <body>
+<div id = "images"> 
 <p><a href="https://www.linkedin.com/in/mehmet-ozleyen/" target="_blank"  rel="noopener noreferrer">
-<img src="https://user-images.githubusercontent.com/94003285/160731003-4e6ab064-1fa0-4e04-beb8-f207e2312932.png" alt="LinkedIn" width="110px" height="50px">
+<img src="https://user-images.githubusercontent.com/94003285/160731003-4e6ab064-1fa0-4e04-beb8-f207e2312932.png" alt="LinkedIn" width="110px" height="50px" >
 </a>
 <a href="https://www.instagram.com/mehmetozleyen20/" target ="_blank" rel="noopener noreferrer"> <img src="https://ccsonc.org/wp-content/uploads/2017/06/instagram-logo.png" alt="Instagram" width="110px" height="50px">
 </a></p>
+</div>
 </body>
 <h3>Tools & Technologies</h3>
  <ul>  
