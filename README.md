@@ -20,8 +20,8 @@
 <ul>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Tnjdmvd3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/iut5bis60lukw02yoe3j.jpg" width="110" height="50" hspace="5px"> 
 <img src="https://cms-assets.tutsplus.com/uploads/users/1199/posts/25940/preview_image/ansible.png" width="110" height="50" hspace="5px">  <img src="https://www.kindpng.com/picc/m/745-7454540_apache-maven-hd-png-download.png" width="130" height="50" hspace="5px">
-<img src="https://flyclipart.com/thumbs/set-up-docker-swarm-cluster-using-consul-dzone-cloud-docker-swarm-logo-1074961.png" width="110" height="50" hspace="5px">  <img src="https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png" width="110" height="50" hspace="5px"> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbe324TnFjT_9NwaIyPMSjeQhFzx-xaCy-Sg&usqp=CAU" width="110" height="50" hspace="5px">  <img src="https://www.cncf.io/wp-content/uploads/2020/08/prometheusBanner-1.png" width="110" height="50"> 
+<img src="https://flyclipart.com/thumbs/set-up-docker-swarm-cluster-using-consul-dzone-cloud-docker-swarm-logo-1074961.png" width="110" height="50" hspace="5px">  <img src="https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png" width="110" height="50"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbe324TnFjT_9NwaIyPMSjeQhFzx-xaCy-Sg&usqp=CAU" width="110" height="50">  <img src="https://www.cncf.io/wp-content/uploads/2020/08/prometheusBanner-1.png" width="110" height="50"> 
  </ul>
 
 
