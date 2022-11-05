@@ -50,7 +50,7 @@
  </ul>
  
  <ul>
- <img src="[![Contributors][contributors-shield]][contributors-url]
+ <img src="[![Contributors][contributors-shield]][contributors-url]" width="auto">
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
