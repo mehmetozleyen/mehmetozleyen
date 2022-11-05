@@ -23,6 +23,13 @@
 <img src="https://flyclipart.com/thumbs/set-up-docker-swarm-cluster-using-consul-dzone-cloud-docker-swarm-logo-1074961.png" width="110" height="50" hspace="2px">  <img src="https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png" width="110" height="50"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbe324TnFjT_9NwaIyPMSjeQhFzx-xaCy-Sg&usqp=CAU" width="110" height="50">  <img src="https://www.cncf.io/wp-content/uploads/2020/08/prometheusBanner-1.png" width="110" height="50"> 
 </ul>
+![](https://komarev.com/ghpvc/?username=nathanColton)
+
+<img src="https://github-readme-stats.vercel.app/api?username=mehmetozleyen&theme=chartreuse-dark" alt="my github stats" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetozleyen&theme=chartreuse-dark" alt="my commit status" width="49%" />
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetozleyen&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 
 
 
