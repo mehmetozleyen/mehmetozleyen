@@ -15,7 +15,7 @@
 </body>
 <h3>Tools & Technologies</h3>
  <ul>
-<img src="https://www.cleanpng.com/png-terraform-hashicorp-microsoft-azure-infrastructure-2641388/" width="110" height="50" hspace="2px">  
+<img src="https://www.nicepng.com/ourpic/u2e6e6i1t4y3r5a9_hashicorp-terraform-logo/" width="110" height="50" hspace="2px">  
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0h5bkq-D--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/i0dyl2hs1upd539p6k25.jpg" width="110" height="50" hspace="2px">  
 <img src="https://www.zend.com/sites/default/files/image/2019-09/plugin-aws.jpg" width="110" height="50" hspace="7px">  
 <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" width="50" height="50" hspace="7px"> 
