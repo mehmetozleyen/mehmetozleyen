@@ -48,6 +48,17 @@
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetozleyen&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
  </ul>
+ 
+ <ul>
+ <img src="[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]" width="auto">
+</ul>
+
+
 
 
 
