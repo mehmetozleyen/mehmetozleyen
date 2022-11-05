@@ -34,7 +34,7 @@
 <img src="https://www.cncf.io/wp-content/uploads/2020/08/prometheusBanner-1.png" width="110" height="50"> 
 </ul>
 <ul>
-<img src="https://komarev.com/ghpvc/?username=mehmetozleyen" width="110" height="50"> 
+<img src="https://komarev.com/ghpvc/?username=mehmetozleyen" width="210" height="50"> 
 </ul>
 <ul>
 
