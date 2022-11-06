@@ -45,7 +45,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetozleyen&theme=chartreuse-dark" alt="my commit status" width="49%" />
 </ul>
 <ul>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetozleyen&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
  </ul>
  
