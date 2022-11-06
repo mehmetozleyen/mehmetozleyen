@@ -46,7 +46,7 @@
 </ul>
 <ul>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetozleyen&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetozleyen&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
  </ul>
  
  
