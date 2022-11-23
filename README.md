@@ -37,7 +37,6 @@
 <img src="https://komarev.com/ghpvc/?username=mehmetozleyen" width="210" height="50"> 
 </ul>
 <ul>
-
 <img src="https://github-readme-stats.vercel.app/api?username=mehmetozleyen&theme=chartreuse-dark" alt="my github stats" width="49%"/>
 </ul>
 <ul>
